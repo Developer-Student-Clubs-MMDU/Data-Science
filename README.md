@@ -20,7 +20,7 @@ __Improving comments__ and __writing proper tests__ are also highly welcome.
 
 ### Contribution
 
-We appreciate any contribution, from fixing a grammar mistake in a comment to implementing complex algorithms. Please read this section if you are contributing your work.
+We appreciate any contribution, from fixing a grammar mistake in a comment to implementing complex programmes. Please read this section if you are contributing your work.
 
 Please help us keep our issue list small by adding fixes: #{$ISSUE_NO} to the commit message of pull requests that resolve open issues. GitHub will use this tag to auto-close the issue when the PR is merged.
 
