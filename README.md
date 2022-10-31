@@ -3,7 +3,7 @@
 
 ## Before contributing
 
-Welcome to [Data Structures and Algorithms](https://github.com/Developer-Student-Clubs-MMDU/Data-Science)! Before sending your pull requests, make sure that you __read the whole guidelines__. If you have any doubt on the contributing guide, please feel free to [state it clearly in an issue] or ask the community in [our discord channel].
+Welcome to [Data Science](https://github.com/Developer-Student-Clubs-MMDU/Data-Science)! Before sending your pull requests, make sure that you __read the whole guidelines__. If you have any doubt on the contributing guide, please feel free to [state it clearly in an issue] or ask the community in [our discord channel].
 
 
 ### Contributor
